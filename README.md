@@ -1,7 +1,7 @@
 
 # [learning-angular](https://eeoooue.github.io/learning-angular/)
 
-ost repository for Angular apps
+host repository for Angular apps
 
 .js files for an app hosted in this repo are here: 
 > https://eeoooue.github.io/learning-angular/docs
